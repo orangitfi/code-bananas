@@ -1,3 +1,6 @@
+layout: page
+title: code-bananas SRE
+
 # Case: Bornean Orangutan
 
 Olemme ottamassa uutta sovelluskokonaisuutta huolenpitoon.
