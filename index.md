@@ -1,2 +1,2 @@
-# [Site Reliability Engineering](/code-bananas/sre/)
-# [Code Review](/code-bananas/code-review/)
+1. [Site Reliability Engineering](/code-bananas/sre/)
+1. [Code Review](/code-bananas/code-review/)
