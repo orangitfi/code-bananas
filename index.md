@@ -1,2 +1,2 @@
-* [Site Reliability Engineering](/sre/)
+* [Site Reliability Engineering](sre/)
 * []
