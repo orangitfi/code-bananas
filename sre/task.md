@@ -12,6 +12,7 @@ Olemme ottamassa seuraavaa sovelluskokonaisuutta huolenpitoon:
 * Infraympäristö
   * Kaikki pyörii Amazonissa ECS-klusterissa
 
+
 Miten tämä kannattaa hoitaa - ennen kaikkea sovelluksen kannalta:
 1. Monitorointi
 2. Hälytykset
