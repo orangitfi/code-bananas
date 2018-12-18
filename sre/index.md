@@ -1,6 +1,9 @@
 # Case: Bornean Orangutan
 
-Olemme ottamassa seuraavaa sovelluskokonaisuutta huolenpitoon:
+Olemme ottamassa uutta sovelluskokonaisuutta huolenpitoon.
+
+## Järjestelmäkuvaus
+
 * Web-frontend: Asiakasportaali palveluiden ostamiseen (B2C)
 * Web-frontend: Admin-palvelu portaalin konfigurointiin ja mm. Viestin lähetykseen asiakkaille
 * Mobiilisovellus: Kanta-asiakkaille, voidaan käyttää mm. Tilausten seurantaan ja kivijalkamyymälöissä
@@ -12,8 +15,10 @@ Olemme ottamassa seuraavaa sovelluskokonaisuutta huolenpitoon:
 * Infraympäristö
   * Kaikki pyörii Amazonissa ECS-klusterissa
 
+## Huolenpidon organisointi
 
-Miten tämä kannattaa hoitaa - ennen kaikkea sovelluksen kannalta:
+Miten sovelluksen kannalta olisi hyvä hoitaa:
+
 1. Monitorointi
 2. Hälytykset
 3. Valvonta
