@@ -18,3 +18,8 @@
 
 Tutki yhtä seuraavista:
 
+[https://github.com/dojo/dojo/blob/master/OpenAjax.js](https://orangitfi.github.io/code-bananas/code-review/js.png)
+
+[https://github.com/HouzuoGuo/Aurinko2/blob/master/src/main/scala/net/houzuo/aurinko2/Worker.scala](https://orangitfi.github.io/code-bananas/code-review/scala.png)
+
+[https://github.com/hibernate/hibernate-orm/blob/master/hibernate-core/src/main/java/org/hibernate/hql/internal/classic/QueryTranslatorImpl.java](https://orangitfi.github.io/code-bananas/code-review/java.png)
