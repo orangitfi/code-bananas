@@ -1,2 +1,5 @@
+url: "https://code-bananas.github.io"
 theme: jekyll-theme-tactile
 markdown: kramdown
+kramdown:
+  input: GFM
