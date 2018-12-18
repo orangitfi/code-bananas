@@ -4,7 +4,7 @@
 
 :shit: ETSI hajuja ja huonoja käytäntöjä koodista!
 
-:mag: ÄLÄ yritä selvittää, mitä koodi yksityiskohtaisesti tekee - yleisen tason ymmärrys on hyvä asia!
+:mag: ÄLÄ yritä selvittää, mitä koodi yksityiskohtaisesti tekee - yleisen tason ymmärrys riittää!
 
 :floppy_disk: ÄLÄ huolehdi koko tiedoston läpikäymisestä!
 
