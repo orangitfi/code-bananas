@@ -1,6 +1,7 @@
 # Koodikatselmointi
 
-:thinking: MITEN kommentoisit tätä koodia Pull Request katselmoinnissa?
+ :thinking:
+MITEN kommentoisit tätä koodia Pull Request katselmoinnissa?
 :shit: ETSI hajuja ja huonoja käytäntöjä koodista!
 :mag: ÄLÄ yritä selvittää, mitä koodi yksityiskohtaisesti tekee - yleisen tason ymmärrys on hyvä asia!
 :floppy_disk: ÄLÄ huolehdi koko tiedoston läpikäymisestä!
