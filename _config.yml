@@ -1,4 +1,5 @@
 title : code-bananas
+landing_page: https://orangitfi.github.io/code-bananas/
 theme: jekyll-theme-slate
 markdown: kramdown
 plugins:
